@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Trungli
 - 👀 I’m interested in Game Design, Software Engineering, and Pure Math!
-- 🌱 I’m currently learning C#, C++, Assembly/MIPS
+- 🌱 I’m currently learning C#, C++
 - 💞️ I’m looking to collaborate on game projects and maths visualization projects
 - 📫 How to reach me: through my email at eadiez.u@gmail.com
